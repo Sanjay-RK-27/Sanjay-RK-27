@@ -85,19 +85,18 @@ const sanjay = {
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
 </div>
 
-### <img src="https://img.icons8.com/color/48/000000/code.png" width="25"/> Full-Stack Developer at VIRTUSA CONSULTING SERVICES *(Jul 2022 - Jun 2023)*
+### <img src="https://img.icons8.com/color/48/000000/code.png" width="25"/> Graduate Research Assistant at  Stony Brook University *(Jan 2025 - May 2025)*
 
-- 🚀 Designed and developed a drag-and-drop UI with an integrated Monaco Editor for creating custom GraphQL APIs
-- 🔍 Led complete frontend development using HTML, CSS, and JavaScript, doubling customer engagement
-- 🔄 Implemented backend services with Java, GraphQL, and REST APIs to integrate 5+ Virtusa products
-- ⚡ Reduced API response time by 30% through database optimization and efficient MySQL query handling
-- 🛡️ Engineered custom thread pool logic to manage high traffic and restrict DDoS attacks, improving system security and scalability by 90%
+- 🌐 Developed and optimized data-driven models for stock market prediction using deep learning and ensemble methods.
+- 📊 Designed automated pipelines for data cleaning, processing, and reporting to support real-time decision-making.
+- 🔧 Collaborated with cross-functional teams to integrate data insights into production systems.
 
-### <img src="https://img.icons8.com/color/48/000000/code.png" width="25"/> SDE - Project Trainee (Intern) at ZOHO CORPORATION *(Mar 2022 - Jun 2022)*
+### <img src="https://img.icons8.com/color/48/000000/code.png" width="25"/> Full-Stack Developer Intern at VIRTUSA CONSULTING SERVICES *(Mar 2023 - Jul 2023)*
 
-- 🌐 Initiated the integration of GraphQL across Zoho products into a single GraphQL endpoint
-- 📊 Implemented search and analytics features using Spring, JSP, Handlebars.js, HighCharts, and Mickey (ORM) in Zoho Catalyst
-- 🔧 Identified and resolved 50+ critical bugs, preventing Internal Server Error (500)
+- 🚀 Serviced an e-commerce web application, FashionBOLTz, using Java, JSP, HTML, CSS, JavaScript, and MySQL.
+- 🔍 Implemented JDBC API for SQL execution, AES Algorithm for securing customer payments and product details.
+- 🔄 Crafted five distinct web pages, including Customer Order and SuperAdmin, implementing user-friendly interfaces that enhanced navigation efficiency by 40%, resulting in customer engagement across the e-commerce platform.
+- ⚡ Managed SQL databases using HeidiSQL for data modeling and CRUD operations.
 
 ---
 
@@ -127,15 +126,16 @@ Leveraging my GraphQL expertise to create unified API interfaces for multiple LL
 
 ## 🔧 Technical Projects
 
-### <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="25"/> SIMPLE ENSEMBLE LEARNING | R
-- Developed an R package for analysis of both binary and continuous response variables
-- Implemented bagging and ensemble learning techniques to improve model accuracy
-- Optimized for scenarios with more predictors than observations
+### <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="25"/> SIMPLE ENSEMBLE LEARNING | R, RStudio, GitHub, devtools
+- Developed an R package integrating five regression models (linear, logistic, ridge, lasso, elastic net) to boost predictive accuracy by up to 15%.
+- Engineered an automated variable importance and pre-screening system, reducing feature selection time by 25% on high-dimensional datasets.
+- Delivered comprehensive documentation (vignettes, help files, sample data) to ensure reproducibility & ease of use.
 
-### <img src="https://img.icons8.com/color/48/000000/web.png" width="25"/> FOCUS LENS | Java, HTML, CSS, Angular, REST APIs
-- Created a full-stack web application with Flask serving a REST API and Angular frontend
-- Built an integrated shopping application with enhanced customer experience features
-
+### <img src="https://img.icons8.com/color/48/000000/web.png" width="25"/> Real-Time Data Monitoring and Anomaly Detection | Python, SQL, Power BI, Streamlit
+- Developed a real-time monitoring system to track key performance metrics from multiple data sources using Python and SQL.
+-  Implemented statistical and machine learning algorithms to detect anomalies and trigger automated alerts.
+- Designed an interactive dashboard using Power BI and Streamlit to visualize real-time trends and anomalies.
+- Enhanced decision-making by delivering actionable insights and automated reporting to stakeholders
 ---
 
 ## 💻 Technical Skills
