@@ -35,7 +35,7 @@ My experience includes designing and implementing complex systems at companies l
 ```javascript
 const sanjay = {
   education: ["MSc Data Science @ Stony Brook", "BE Computer Science @ RMK Engineering"],
-  experience: ["Full-Stack Developer @ Virtusa", "SDE Intern @ Zoho"],
+  experience: ["Full-Stack Developer @ ZOHO", "Research Assistant @ Stony Brook University"],
   interests: ["LLMs", "Chatbots", "NLP", "Full-Stack Development"],
   technologies: {
     ai_ml: ["PyTorch", "TensorFlow", "Transformers", "Langchain", "RAG"],
