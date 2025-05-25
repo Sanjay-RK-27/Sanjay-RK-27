@@ -30,7 +30,7 @@
 
 Data Scientist and Full-Stack Developer passionate about building intelligent systems, particularly LLMs and chatbots. Currently pursuing a Master's in Data Science at Stony Brook University, I combine my software engineering background with advanced ML knowledge to create scalable AI solutions.
 
-My experience includes designing and implementing complex systems at companies like Virtusa and Zoho, where I've developed GraphQL APIs, optimized backend services, and integrated multiple platforms. I'm particularly interested in the intersection of natural language processing, machine learning, and user-facing applications.
+My experience includes designing and implementing complex systems at companies like Virtusa and Zoho, where I've developed GraphQL APIs, optimized backend services, and integrated multiple platforms. I'm particularly interested in the intersection of Data Engineering, natural language processing, machine learning, and user-facing applications.
 
 ```javascript
 const sanjay = {
@@ -91,7 +91,7 @@ const sanjay = {
 - 📊 Designed automated pipelines for data cleaning, processing, and reporting to support real-time decision-making.
 - 🔧 Collaborated with cross-functional teams to integrate data insights into production systems.
 
-### <img src="https://img.icons8.com/color/48/000000/code.png" width="25"/> Full-Stack Developer Intern at VIRTUSA CONSULTING SERVICES *(Mar 2023 - Jul 2023)*
+### <img src="https://img.icons8.com/color/48/000000/code.png" width="25"/> Full-Stack Developer Intern at ZOHO CORPORATION *(Mar 2023 - Jul 2023)*
 
 - 🚀 Serviced an e-commerce web application, FashionBOLTz, using Java, JSP, HTML, CSS, JavaScript, and MySQL.
 - 🔍 Implemented JDBC API for SQL execution, AES Algorithm for securing customer payments and product details.
